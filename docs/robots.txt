@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jackypanster.github.io/blog/sitemap.xml
