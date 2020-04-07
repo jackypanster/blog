@@ -6,10 +6,19 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Mar 2020 17:10:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 19:27:51 +0800</lastBuildDate>
     
 	<atom:link href="https://jackypanster.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arm</title>
+      <link>https://jackypanster.github.io/blog/post/arm/</link>
+      <pubDate>Tue, 07 Apr 2020 19:27:51 +0800</pubDate>
+      
+      <guid>https://jackypanster.github.io/blog/post/arm/</guid>
+      <description>ARM，是公司名称，不是芯片名称，原来叫Acorn RISC Machine，后来变成一家合资公司，全称Advanced RISC Machines，苹果投了1</description>
+    </item>
     
     <item>
       <title>ARM授权</title>
