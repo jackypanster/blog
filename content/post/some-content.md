@@ -15,7 +15,7 @@ ARM所采取的是IP（Intellectual Property，知识产权）授权的商业模
 
 + 架构授权是ARM会授权合作厂商使用自己的架构，方便其根据自己的需要来设计处理器（例如后来高通的Krait架构和苹果的Swift架构，就是在取得ARM的授权后设计完成的）。
 
-![image](/ip.jpg)
+![image](/images/ip.jpg)
 
 所以，授权费和版税就成了ARM的主要收入来源。除此之外，就是软件工具和技术支持服务的收入。
 
