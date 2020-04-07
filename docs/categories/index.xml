@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog</title>
-    <link>https://jackypanster.github.io/blog/categories.html</link>
+    <link>https://jackypanster.github.io/blog/categories/</link>
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
