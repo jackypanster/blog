@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Apr 2020 19:27:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 19:38:08 +0800</lastBuildDate>
     
 	<atom:link href="https://jackypanster.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,28 +14,10 @@
     <item>
       <title>Arm</title>
       <link>https://jackypanster.github.io/blog/post/arm.html</link>
-      <pubDate>Tue, 07 Apr 2020 19:27:51 +0800</pubDate>
+      <pubDate>Tue, 07 Apr 2020 19:38:08 +0800</pubDate>
       
       <guid>https://jackypanster.github.io/blog/post/arm.html</guid>
       <description>ARM，是公司名称，不是芯片名称，原来叫Acorn RISC Machine，后来变成一家合资公司，全称Advanced RISC Machines，苹果投了1</description>
-    </item>
-    
-    <item>
-      <title>ARM授权</title>
-      <link>https://jackypanster.github.io/blog/post/some-content.html</link>
-      <pubDate>Fri, 20 Mar 2020 17:10:02 +0800</pubDate>
-      
-      <guid>https://jackypanster.github.io/blog/post/some-content.html</guid>
-      <description>ARM，是公司名称，不是芯片名称，原来叫Acorn RISC Machine，后来变成一家合资公司，全称Advanced RISC Machines，苹果投了1</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://jackypanster.github.io/blog/posts/first-post.html</link>
-      <pubDate>Fri, 20 Mar 2020 14:58:11 +0800</pubDate>
-      
-      <guid>https://jackypanster.github.io/blog/posts/first-post.html</guid>
-      <description>Hello world </description>
     </item>
     
   </channel>
